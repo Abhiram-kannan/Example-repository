@@ -1,2 +1,1 @@
-L = "abuh"
-print(L.isalpha())
+Print("Hello World")
